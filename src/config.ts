@@ -19,7 +19,7 @@ export const PAYMENT_NUMBERS = {
 // 1. Copy the Web App URL
 // 2. Paste it below (replace YOUR_GOOGLE_SCRIPT_URL_HERE)
 
-export const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzbiSNe1Q7qvb4rFGTELCriFj2t1U2L7ynpuLFrOkh2LOzONaMa4dtLUszqk1JUy5U8Bg/exec';
+export const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyU-uuIIiNoSUY7ss0PymqERmtfUrXx5RSA8m81aTjX-TNKTDygjKOH58UOhPJSmbQJig/exec';
 
 // Example: 
 // export const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby.../exec';
